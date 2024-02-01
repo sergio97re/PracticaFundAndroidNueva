@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PracticaFundAndroidNueva</string>
+    <string name="email_login">Email</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lista_heroes_titulo">Selecciona un heroe para luchar</string>
+    <string name="datos_borrados">Datos Borrados de SP</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="recuerdame">Guardar mis datos</string>
+    <string name="datos_guardados">Datos guardados</string>
+    <string name="fight_heal">CURAR</string>
+    <string name="fight_attack">ATACAR</string>
+</resources>
